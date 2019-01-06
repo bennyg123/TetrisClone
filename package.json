@@ -1,0 +1,25 @@
+{
+  "name": "tetrisclone",
+  "version": "1.0.0",
+  "description": "P5.JS implmentation of Tetris",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bennyg123/TetrisClone.git"
+  },
+  "keywords": [
+    "P5.JS",
+    "Tetris",
+    "Game",
+    "Javascript"
+  ],
+  "author": "Benny Guan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bennyg123/TetrisClone/issues"
+  },
+  "homepage": "https://github.com/bennyg123/TetrisClone#readme"
+}
